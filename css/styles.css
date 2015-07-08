@@ -6,8 +6,14 @@ body {
 body > div {
 	position: absolute;
 	top: 50%;
-	margin-top: -53px;
+	margin-top: -63px;
 	width: 100vw;
+}
+
+p {
+	color: white;
+	font-weight: 100;
+	text-align: center;
 }
 
 div {
